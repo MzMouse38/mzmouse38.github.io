@@ -187,7 +187,7 @@ export default {
           "color": "#2577e0",
           "value": 3,
           "max": 6,
-        }
+        },
 		{
           "name": "Consumption",
           "description": "Represents a growing unknown threat.",
