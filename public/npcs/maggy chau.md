@@ -1,0 +1,3 @@
+- Matriarch of a farming family with her wife, exile from Evergreen
+- Withdrew closer to Liu Maize following **BUG-HUNT**, status unknown
+- Has a son and several grandchildren

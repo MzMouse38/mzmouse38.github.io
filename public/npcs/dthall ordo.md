@@ -1,0 +1,3 @@
+- Relocating refugees to Mycol Fields
+- Daughter of Hivehome military commander
+- Beginning to become a good friend to the 382nd

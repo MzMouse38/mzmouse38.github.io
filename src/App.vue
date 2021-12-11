@@ -165,12 +165,108 @@ export default {
           "pronouns": "He/Him",
           "notes": "382nd CO"
         },
+		{
+          "name": "Patience",
+          "affiliation": "Evergreen",
+          "pronouns": "They/Them",
+          "notes": "Colonial Administrator"
+        },
+		{
+          "name": "Edena Ji",
+          "affiliation": "Evergreen",
+          "pronouns": "She/Her",
+          "notes": "Attache"
+        },
         {
           "name": "Brava Hadura",
           "affiliation": "Evergreen",
           "pronouns": "She/Her",
-          "notes": "Captain of the Local Militia"
+          "notes": "Militia Commander"
         },
+		{
+          "name": "Castor Fielding",
+          "affiliation": "Evergreen",
+          "pronouns": "He/Him",
+          "notes": "Chief Engineer"
+        },
+		{
+          "name": "Maggy Châu",
+          "affiliation": "Evergreen",
+          "pronouns": "She/Her",
+          "notes": "Châu Matriarch"
+        },
+		{
+          "name": "Eddie Wu",
+          "affiliation": "CRT Contingency White",
+          "pronouns": "He/Him",
+          "notes": "CRT Commanding Officer"
+        },
+		{
+          "name": 'Roy "Mauler" Kaul',
+          "affiliation": "CRT Contingency White",
+          "pronouns": "He/Him",
+          "notes": "CRT Executive Officer"
+        },
+		{
+          "name": "Balsam Singh",
+          "affiliation": "CRT Contingency White",
+          "pronouns": "He/Him",
+          "notes": "CRT Medical Officer"
+        },
+		{
+          "name": "Emma Broadstreet",
+          "affiliation": "CRT Contingency White",
+          "pronouns": "She/Her",
+          "notes": "CRT Security Officer"
+        },
+		{
+          "name": "Anne Laurent",
+          "affiliation": "CRT Contingency White",
+          "pronouns": "She/Her",
+          "notes": "CRT Security Officer, NHP Tech"
+        },
+		{
+          "name": "Dthall Ordo",
+          "affiliation": "Hercynian United Cities",
+          "pronouns": "She/Her",
+          "notes": "HUC Ranger Liaison"
+        },
+		{
+          "name": "Endeavor",
+          "affiliation": "Hercynian United Cities",
+          "pronouns": "They/Them",
+          "notes": "Egregorian Overmind"
+        },
+		{
+          "name": "Ilyr Ordo",
+          "affiliation": "Hercynian United Cities",
+          "pronouns": "He/Him",
+          "notes": "Hivehome Commander"
+        },
+		{
+          "name": "Primoz Commorand",
+          "affiliation": "Hercynian United Cities",
+          "pronouns": "He/Him",
+          "notes": "Daylight Commnader"
+        },
+		{
+          "name": "Pyotr Heidel",
+          "affiliation": "Hercynian United Cities",
+          "pronouns": "He/Him",
+          "notes": "Mycol Fields Commander"
+        },
+		{
+          "name": "Terror",
+          "affiliation": "Hercynian United Cities",
+          "pronouns": "They/Them",
+          "notes": "HUC Ranger Commander"
+        },
+		{
+          "name": "Beggar One",
+          "affiliation": "The Machine",
+          "pronouns": "It/Its, He/Him",
+          "notes": "The Prodigal Son"
+        }
       ],
       "header": {
         "planet": "Hercynia",

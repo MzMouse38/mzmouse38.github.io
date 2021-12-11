@@ -1,0 +1,1 @@
+- Catatonic since the strike on Daylight; recovery time unknown

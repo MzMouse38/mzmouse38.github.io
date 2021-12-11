@@ -1,0 +1,3 @@
+- Strict discipline
+- Fastidious fashion
+- Very stern demeanor

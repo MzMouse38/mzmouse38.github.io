@@ -1,0 +1,2 @@
+- With Endeavor incapacitated, is now the interim leader of the HUC
+- An old veteran, soft-spoken and kind despite their intimidating form
