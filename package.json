@@ -1,0 +1,20 @@
+{
+  "name": "lancer-briefings",
+  "version": "0.2.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@oruga-ui/oruga-next": "^0.4.2",
+    "chart.js": "^3.5.1",
+    "vue": "^3.2.16",
+    "vue-chart-3": "^0.5.8",
+    "vue3-markdown-it": "^1.0.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.2",
+    "vite": "^2.6.0"
+  }
+}
