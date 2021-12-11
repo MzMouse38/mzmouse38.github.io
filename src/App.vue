@@ -86,15 +86,35 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "005",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "001",
           "name": "Bug-Hunt",
-          "status": "start"
+          "status": "success"
         },
+		{
+          "slug": "002",
+          "name": "Vigilant Gaze",
+          "status": "partial-success"
+        },
+		{
+          "slug": "003",
+          "name": "Floodgate",
+          "status": "success"
+        },
+		{
+          "slug": "004",
+          "name": "Rallying Cry",
+          "status": "success"
+        },
+		{
+          "slug": "005",
+          "name": "Split-Knuckle Haymaker",
+          "status": "start"
+        }
       ],
       "pilots": [
         {
@@ -143,7 +163,7 @@ export default {
           "name": "Snakeman",
           "affiliation": "Mirrorsmoke Mercenary Company",
           "pronouns": "He/Him",
-          "notes": "DELTA-ECHO-ECHO-ZULU's primary report"
+          "notes": "382nd CO"
         },
         {
           "name": "Brava Hadura",
@@ -161,12 +181,12 @@ export default {
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Transportation Security",
-        "subheaderSubtitle": "382nd Mechanized Cavalry",
+        "subheaderSubtitle": "382nd MECH",
       },
       "clocks": [
         {
           "name": "Defense of Evergreen",
-          "description": "Represents teh integrity and readiness of Evergreen's militia and defenses.",
+          "description": "Represents the integrity and readiness of Evergreen's militia and defenses.",
           "help": "Having more segments filled in will make things easier for you during later missions.",
           "color": "#0df2ca",
           "value": 4,
