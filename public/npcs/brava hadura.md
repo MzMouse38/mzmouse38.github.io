@@ -1,1 +1,4 @@
+- Never carried a weapon before the fighting began
+- Family-oriented
+- Refuses to use combat-enhancers
 - Presumed POW

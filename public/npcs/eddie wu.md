@@ -1,1 +1,4 @@
+- Former MSMC operator
+- Separated from his family
+- Eager to retire
 - Presumed POW

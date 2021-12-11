@@ -1,1 +1,4 @@
+- Former HA legionnaire
+- Loves fighting
+- Heavily augmented
 - Presumed POW

@@ -160,9 +160,9 @@ export default {
       ],
       "npcs": [
         {
-          "name": "Snakeman",
+          "name": "Manifest",
           "affiliation": "Mirrorsmoke Mercenary Company",
-          "pronouns": "He/Him",
+          "pronouns": "She/Her",
           "notes": "382nd CO"
         },
 		{
