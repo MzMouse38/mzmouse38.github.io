@@ -13,7 +13,7 @@ export default {
 	},
 	props: {
 		npcs: {
-			type: Array,
+			type: Object,
 			required: true,
 		}
 	},
