@@ -667,6 +667,7 @@ section .section-header h1 {
 
 .person-list-container {
   height: 666px;
+  overflow-y: scroll;
 }
 .person-list-container .person {
   border-bottom: var(--primary 1px solid);
