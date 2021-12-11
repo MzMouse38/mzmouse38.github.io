@@ -202,7 +202,7 @@ export default {
           "notes": "CRT Commanding Officer"
         },
 		{
-          "name": 'Roy "Mauler" Kaul',
+          "name": "Roy Kaul",
           "affiliation": "CRT Contingency White",
           "pronouns": "He/Him",
           "notes": "CRT Executive Officer"
