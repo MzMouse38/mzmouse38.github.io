@@ -48,12 +48,21 @@ export default {
       clocks: [],
       events: [],
       missions: [],
-      pilots: [],
+      pilots: [
+		{
+          "callsign": "Rhapsody",
+          "alias": "Caelia Pagett",
+          "code": "Pagett.Caelia:a222e882-b71c-418c-ad8a-2b0dcb7b5b5d//NDL-C-LUNAR-DREAM",
+          "corpro": "SSC",
+          "frame": "Dusk Wing",
+          "mech": "Staccato"
+        }
+	  ],
       reserves: [],
       init: {
-        "ᏃᏈᏏ ᎤᏕᏅ": {
-          "age": "36u",
-          "pob": "[CLASSIFIED]",
+        "APOLLO": {
+          "age": "32u",
+          "pob": "Evergreen",
         },
         "RAI-DEN": {
           "age": "48u",
