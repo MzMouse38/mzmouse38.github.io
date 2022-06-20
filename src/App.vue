@@ -55,22 +55,10 @@ export default {
           "age": "36u",
           "pob": "[CLASSIFIED]",
         },
-        "DWARF": {
+        "RAI-DEN": {
           "age": "48u",
           "pob": "Gaia"
-        },
-		"RHAPSODY": {
-			"age": "??"
-			"pob": "??"
-		},
-		"SHRIKE": {
-			"age": "??"
-			"pob": "??"
-		},
-		"MIRACLE": {
-			"age": "??"
-			"pob": "??"
-		}
+        }
       }
     };
   },
