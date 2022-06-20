@@ -51,7 +51,7 @@ export default {
       pilots: [],
       reserves: [],
       init: {
-        "ECLIPSE": {
+        "ᏃᏈᏏ ᎤᏕᏅ": {
           "age": "36u",
           "pob": "[CLASSIFIED]",
         },
