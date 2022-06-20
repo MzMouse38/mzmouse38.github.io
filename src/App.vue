@@ -86,7 +86,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "005",
+      "mission_slug": "006",
       "current_md": "",
       "events": "",
       "missions": [
@@ -113,14 +113,19 @@ export default {
 		{
           "slug": "005",
           "name": "Split-Knuckle Haymaker",
-          "status": "start"
-        }
+          "status": "success"
+        },
+		{
+			"slug": "006",
+			"name": "Dawn of a New War",
+			"status": "start"
+		}
       ],
       "pilots": [
         {
           "callsign": "Dwarf",
           "alias": "Arthur Fredrick Bradshaw",
-          "code": "Bradshaw.Arthur.Fredrick:5515314a-b2e8-4717-a7ef-853bf036de35//NDL-C-DISCORDANT-VEIL",
+          "code": "Bradshaw.Arthur.Fredrick:5515314a-b2e8-4717-a7ef-853bf036de35//NDL-C-BARYON-TEMPLE",
           "corpro": "IPS-N",
           "frame": "Blackbeard",
           "mech": "Atgeir"
@@ -128,15 +133,15 @@ export default {
         {
           "callsign": "Miracle",
           "alias": "Miroslava Vlablinskaja",
-          "code": "Vlablinskaja.Miroslava:587f9a36-bf6b-4505-bc21-1b88e18a144d//NDL-C-BARYON-GRAVE",
+          "code": "Vlablinskaja.Miroslava:587f9a36-bf6b-4505-bc21-1b88e18a144d//NDL-C-SINGULARITY-DECEMBER",
           "corpro": "SSC",
           "frame": "Death's Head",
           "mech": "Angrboða"
         },
         {
           "callsign": "Eclipse",
-          "alias": "Cat Noquisi Udenv",
-          "code": "Udenv.Cat.Noquisi:602cf4a4-58a4-4c42-a736-8f64c7b0b75a//NDL-C-FALLEN-STATION",
+          "alias": "ᏃᏈᏏ ᎤᏕᏅ",
+          "code": "ᎤᏕᏅ.Cat.Noquisi.Udenv./.ᏃᏈᏏ:602cf4a4-58a4-4c42-a736-8f64c7b0b75a//NDL-C-CHAIN-SKULL",
           "corpro": "HORUS",
           "frame": "Balor",
           "mech": "Phobos"
@@ -144,7 +149,7 @@ export default {
         {
           "callsign": "Shrike",
           "alias": "Sokolova",
-          "code": "Sokolova:9b84f5f3-3a22-44c9-853d-c223fe3dca03//NDL-C-THETA-HELIX",
+          "code": "Sokolova:9b84f5f3-3a22-44c9-853d-c223fe3dca03//NDL-C-BRONZE-SWORD",
           "corpro": "IPS-N",
           "frame": "Raleigh",
           "mech": "Creosote"
@@ -152,31 +157,13 @@ export default {
         {
           "callsign": "Rhapsody",
           "alias": "Caelia Pagett",
-          "code": "Pagett.Caelia:a222e882-b71c-418c-ad8a-2b0dcb7b5b5d//NDL-C-BLUE-EYE",
+          "code": "Pagett.Caelia:a222e882-b71c-418c-ad8a-2b0dcb7b5b5d//NDL-C-LUNAR-DREAM",
           "corpro": "SSC",
           "frame": "Dusk Wing",
           "mech": "Staccato"
         },
       ],
       "npcs": [
-        {
-          "name": "Manifest",
-          "affiliation": "Mirrorsmoke Mercenary Company",
-          "pronouns": "She/Her",
-          "notes": "382nd CO"
-        },
-		{
-          "name": "Patience",
-          "affiliation": "Evergreen",
-          "pronouns": "They/Them",
-          "notes": "Colonial Administrator"
-        },
-		{
-          "name": "Edena Ji",
-          "affiliation": "Evergreen",
-          "pronouns": "She/Her",
-          "notes": "Attache"
-        },
         {
           "name": "Brava Hadura",
           "affiliation": "Evergreen",
@@ -188,42 +175,6 @@ export default {
           "affiliation": "Evergreen",
           "pronouns": "He/Him",
           "notes": "Chief Engineer"
-        },
-		{
-          "name": "Maggy Châu",
-          "affiliation": "Evergreen",
-          "pronouns": "She/Her",
-          "notes": "Châu Matriarch"
-        },
-		{
-          "name": "Eddie Wu",
-          "affiliation": "CRT Contingency White",
-          "pronouns": "He/Him",
-          "notes": "CRT Commanding Officer"
-        },
-		{
-          "name": "Roy Kaul",
-          "affiliation": "CRT Contingency White",
-          "pronouns": "He/Him",
-          "notes": "CRT Executive Officer"
-        },
-		{
-          "name": "Balsam Singh",
-          "affiliation": "CRT Contingency White",
-          "pronouns": "He/Him",
-          "notes": "CRT Medical Officer"
-        },
-		{
-          "name": "Emma Broadstreet",
-          "affiliation": "CRT Contingency White",
-          "pronouns": "She/Her",
-          "notes": "CRT Security Officer"
-        },
-		{
-          "name": "Anne Laurent",
-          "affiliation": "CRT Contingency White",
-          "pronouns": "She/Her",
-          "notes": "CRT Security Officer, NHP Tech"
         },
 		{
           "name": "Dthall Ordo",
@@ -260,12 +211,6 @@ export default {
           "affiliation": "Hercynian United Cities",
           "pronouns": "They/Them",
           "notes": "HUC Ranger Commander"
-        },
-		{
-          "name": "Beggar One",
-          "affiliation": "The Machine",
-          "pronouns": "It/Its, He/Him",
-          "notes": "The Prodigal Son"
         }
       ],
       "header": {
@@ -274,44 +219,12 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Transportation Security",
+        "headerTitle": "Hercynian",
+        "headerSubtitle": "United Cities",
+        "subheaderTitle": "Rangers",
         "subheaderSubtitle": "382nd MECH",
       },
       "clocks": [
-        {
-          "name": "Defense of Evergreen",
-          "description": "Represents the integrity and readiness of Evergreen's militia and defenses.",
-          "help": "Having more segments filled in will make things easier for you during later missions.",
-          "color": "#0df2ca",
-          "value": 4,
-          "max": 6,
-        },
-        {
-          "name": "The Machine Horde",
-          "description": "Represents the number of rogue machines and the danger they pose.",
-          "help": "Having more segments filled in will make things harder for you during later missions.",
-          "color": "#c12626",
-          "value": 0,
-          "max": 6,
-        },
-        {
-          "name": "CRT Contingency White",
-          "description": "Represents the Crisis Response Team's relationship with the 382nd.",
-          "help": "Having more segments filled in will make things easier for you during later missions.",
-          "color": "#2577e0",
-          "value": 3,
-          "max": 6,
-        },
-		{
-          "name": "Consumption",
-          "description": "Represents a growing unknown threat.",
-          "help": "Having more segments filled in will make things harder for you during later missions.",
-          "color": "#f209e2",
-          "value": 0,
-          "max": 3,
-        }
       ],
       "options": {
         "eventsMarkdownPerMission": true,
