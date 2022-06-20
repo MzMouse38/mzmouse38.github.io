@@ -53,22 +53,22 @@ export default {
       init: {
         "ECLIPSE": {
           "age": "36u",
-          "pob": "[CLASSIFIED]",
+          "pob": "[CLASSIFIED]"
         },
         "DWARF": {
           "age": "48u",
           "pob": "Gaia"
         },
 		"RHAPSODY": {
-			"age": "??"
+			"age": "??",
 			"pob": "??"
 		},
 		"SHRIKE": {
-			"age": "??"
+			"age": "??",
 			"pob": "??"
 		},
 		"MIRACLE": {
-			"age": "??"
+			"age": "??",
 			"pob": "??"
 		}
       }
