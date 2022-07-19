@@ -165,11 +165,11 @@ export default {
 		{
           "callsign": "Violet",
           "alias": "Fjola Skuldari",
-          "code": "Skuldari.Fjola:f570e86b-d033-4255-9a85-f14cacaa2c59//NDL-C-LUNAR-HINDSIGHT ",
+          "code": "Skuldari.Fjola:f570e86b-d033-4255-9a85-f14cacaa2c59//NDL-C-LUNAR-HINDSIGHT",
           "corpro": "SSC",
           "frame": "Monarch",
           "mech": "Diluvium"
-        },
+        }
       ],
       "npcs": [
         {
