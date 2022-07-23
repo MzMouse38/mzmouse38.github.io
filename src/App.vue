@@ -133,15 +133,15 @@ export default {
         {
           "callsign": "Miracle",
           "alias": "Miroslava Vlablinskaja",
-          "code": "Vlablinskaja.Miroslava:587f9a36-bf6b-4505-bc21-1b88e18a144d//NDL-C-SINGULARITY-DECEMBER",
-          "corpro": "SSC",
-          "frame": "Death's Head",
-          "mech": "Angrboða"
+          "code": "Vlablinskaja.Miroslava:587f9a36-bf6b-4505-bc21-1b88e18a144d//NDL-C-SOLAR-VECTOR",
+          "corpro": "HA",
+          "frame": "Barbarossa",
+          "mech": "Perun"
         },
         {
           "callsign": "Eclipse",
           "alias": "ᏃᏈᏏ ᎤᏕᏅ",
-          "code": "ᎤᏕᏅ.Cat.Noquisi.Udenv./.ᏃᏈᏏ:602cf4a4-58a4-4c42-a736-8f64c7b0b75a//NDL-C-CHAIN-SKULL",
+          "code": "ᎤᏕᏅ.Cat.Noquisi.Udenv./.ᏃᏈᏏ:602cf4a4-58a4-4c42-a736-8f64c7b0b75a//NDL-C-SINGULARITY-HAMMER",
           "corpro": "HORUS",
           "frame": "Balor",
           "mech": "Phobos"
@@ -165,7 +165,7 @@ export default {
 		{
           "callsign": "Violet",
           "alias": "Fjola Skuldari",
-          "code": "Skuldari.Fjola:f570e86b-d033-4255-9a85-f14cacaa2c59//NDL-C-LUNAR-HINDSIGHT",
+          "code": "Skuldari.Fjola:f570e86b-d033-4255-9a85-f14cacaa2c59//NDL-C-DISCORDANT-VECTOR",
           "corpro": "SSC",
           "frame": "Monarch",
           "mech": "Diluvium"
